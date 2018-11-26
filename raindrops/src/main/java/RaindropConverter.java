@@ -1,7 +1,6 @@
 class RaindropConverter {
-	private String sound;
     String convert(int number) {
-    	sound = "";
+    	String sound = "";
     	for(int i = number; i >= 1; i--) {
     		double rest = number / (double)i;
     		if(rest == 3)
@@ -16,7 +15,4 @@ class RaindropConverter {
     	}
     	return sound;
     }
-	public String getSound() {
-		return sound;
-	}
 }
