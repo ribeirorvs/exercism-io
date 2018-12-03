@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TwoferTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-11-26T15:23:56" hostname="dhcp-10-96-65-43.gru.redhat.com" time="0.001">
+<testsuite name="TwoferTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-12-03T13:11:25" hostname="dhcp-10-96-65-174.gru.redhat.com" time="0.001">
   <properties/>
   <testcase name="noNameGiven" classname="TwoferTest" time="0.001"/>
   <testcase name="aNameGiven" classname="TwoferTest" time="0.0"/>

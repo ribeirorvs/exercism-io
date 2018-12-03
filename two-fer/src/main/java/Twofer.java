@@ -1,8 +1,7 @@
+import java.util.Objects;
+
 class Twofer {
-    String twofer(String name) {
-    	if (name != null) {
-    		return "One for " + name + ", one for me.";
-    	}
-    	return "One for you, one for me.";
+    public String twofer(final String name) {
+    	return String.format("One for %s, one for me.", Objects.toString(name, "you"));
     }
 }
