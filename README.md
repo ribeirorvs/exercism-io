@@ -2,7 +2,7 @@
 
 ## About this repository
 
-This repo will be have solutions to problems posted in the [{^^}Exercism](https://www.urionlinejudge.com.br/).
+This repo will be have solutions to problems posted in the [{^^}Exercism](http://www.exercism.io/).
 
 ## Objective
 
