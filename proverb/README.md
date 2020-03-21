@@ -23,7 +23,7 @@ dependencies:
 
 [https://exercism.io/tracks/java/installation](https://exercism.io/tracks/java/installation)
 
-# Running the tests
+## Running the tests
 
 You can run all the tests for an exercise by entering the following in your
 terminal:
